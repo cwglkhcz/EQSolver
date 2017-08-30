@@ -1,8 +1,8 @@
 <?php
 /**********************************************
-**		Version : 1.0.0						***
+**		Version    : 1.0.0 Beta				***
 **		Created on : 27/08/2017 at 20:42	***	
-**		Updated on : 27/08/2017 at 20:42	***
+**		Updated on : 30/08/2017 at 22:25	***
 **		Programmer : AbdallahBeraida		***
 **		Developing : On						***
 ***********************************************/
@@ -42,12 +42,12 @@ error_reporting(0); // Turn off all error reporting
 
 	}
 	elseif($A == 0 && $B == 0 && $C == 0){
-		echo '<b>'.$style_in." All numbers can be resolution of this polynom ".'<font color="red">'.'</b>';
+		echo '<b>'.$style_in." All numbers can be resolution of this polynom ".'</font>'.'</b>';
 	}	
 	elseif($A == 0 && $B == 0 && $C != 0){
-		echo '<b>'.$style_in." This polyniome dosen't have à resolution ".'<font color="red">'.'</b>';
+		echo '<b>'.$style_in." This polyniome dosen't have à resolution ".'</font>'.'</b>';
 	}
 	else{
-		echo '<b>'.$style_in."You can't resolve this polynome if not assigne all input values ".'<font color="red">'.'</b>';
+		echo '<b>'.$style_in."You can't resolve this polynome if not assigne all input values ".'</font>'.'</b>';
 	}
 echo $break.'<a href="index.php">Click Here to redirecting you in the index</a>';
