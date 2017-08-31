@@ -6,7 +6,8 @@
 
 * Apache 2.4.23
 * PHP 5 : 5.6.25 -> 5.6.31 (is latest version)
-* PHP 7 : 7.0.10 -> 7.0.22 (is latest version)
+* PHP 7 : 7.0.10 -> 7.0.23 (is latest version)
+* PHP 7 : 7.2.0 (Release Candidate 1)
 * MySQL : 5.7.14
 
 # Project Documentation & Help :
