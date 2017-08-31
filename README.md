@@ -1,6 +1,6 @@
 # EQSolver 1.0.0 (Beta)
-* Is a simple program that solves equations and mathematical problems, programmed in languages : HTML,CSS,PHP
-* Version : 1.0.0 (Beta) -- last update in 31/08/2017 18:07
+EQSolver is the process whereby users directly enter the one variable equation to be solved in real-time over the internet.The software's main aim is to find quick and accurate solution for polynomial equations.To solve an equation manually is a time consuming and tedious process and may lead to errors.But the present script solves the equation fast and causes less error.This system helps the students to check whether the solution is correct or not.
+* Version : 1.0.0 (Beta) -- last update in 31/08/2017 18:07 
 
 # Requirements :
 
