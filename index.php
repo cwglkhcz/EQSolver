@@ -20,7 +20,7 @@
                <li class='active'><a href='#'><span>Home : List of scripts</span></a></li>
                <li><a href='#'><span>Test</span></a></li>
                <li><a href='#'><span>Test</span></a></li>
-               <li class='last'><a href='#'><span>Test</span></a></li>
+               <li><a href='about.html' class='last'><span>About</span></a></li>
             </ul>
         </div>
         <ul class="pcontnt">
