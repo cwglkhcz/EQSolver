@@ -50,4 +50,4 @@ error_reporting(0); // Turn off all error reporting
 	else{
 		echo '<b>'.$style_in."You can't resolve this polynome if not assigne all input values ".'</font>'.'</b>';
 	}
-echo $break.'<a href="index.php">Click Here to redirecting you in the index</a>';
+echo $break.'<a href="../index.php">Click Here to redirecting you in the index</a>';
