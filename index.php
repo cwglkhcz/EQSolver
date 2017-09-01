@@ -24,9 +24,8 @@
             </ul>
         </div>
         <ul class="pcontnt">
-           <li class="contnt"><a href='#'><span>Equation 1<sup>st</sup> degree : </span> (Ax+B = 0)</a></li>
+           <li class="contnt"><a href='EQ/first_degree.php'><span>Equation 1<sup>st</sup> degree : </span> (Ax+B = 0)</a></li>
             <li class="contnt"><a href='EQ/second_degree.php'><span>Equation 2<sup>nd</sup> degree : </span> (Ax²+Bx+C = 0)</a></li>
-           <li class="contnt"><a href='#'><span>test</span></a></li>
            <li class="contnt"><a href='#'><span>test</span></a></li>
            <li class="contnt"><a href='#'><span>test</span></a></li>
            <li class="contnt"><a href='#'><span>test</span></a></li>
