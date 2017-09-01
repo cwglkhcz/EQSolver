@@ -24,7 +24,7 @@
                <li class='active'><a href="../index.php"><span>Home : List of scripts</span></a></li>
                <li><a href='#'><span>Test</span></a></li>
                <li><a href='#'><span>Test</span></a></li>
-               <li class='last'><a href='#'><span>Test</span></a></li>
+               <li class='last'><a href='../about.html'><span>About</span></a></li>
             </ul>
         </div>
         <div class="content">
